@@ -3,3 +3,6 @@
 source 'https://ruby.taobao.org/'
 
 gem 'rspec'
+# gem 'diff-lcs'
+# gem 'rake'
+# gem 'require_all'
