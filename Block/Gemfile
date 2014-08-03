@@ -1,0 +1,8 @@
+# A sample Gemfile
+# source "https://rubygems.org"
+source 'https://ruby.taobao.org/'
+
+gem 'rspec'
+# gem 'diff-lcs'
+# gem 'rake'
+# gem 'require_all'
